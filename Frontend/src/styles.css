@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "~bootsrap/dist/css/bootstrap.min.css" */
+
+.custom-navbar{
+  background-color: burlywood
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: burlywood;
+  text-align: center;
+  color: white;
+}
